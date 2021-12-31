@@ -1,0 +1,879 @@
+SUBJECT_ID,TEXT,RESULT
+109,"Chief Complaint: Hypertensive urgency
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Feeling more alert. HA has resolved. Transitioned to po meds
+   History obtained from [**Hospital 85**] Medical records
+   Allergies:
+   Penicillins
+   Rash;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   itching;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2141-6-12**] 06:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2141-6-13**] 10:48 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 37.5
+C (99.5
+   HR: 92 (71 - 100) bpm
+   BP: 170/104(117) {121/58(74) - 196/141(148)} mmHg
+   RR: 20 (15 - 30) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 55 kg (admission): 54 kg
+   Height: 60 Inch
+                  Total In:
+                                                                  1,930 mL
+                  PO:
+                                                                    380 mL
+                  TF:
+   IVF:
+                                                                  1,550 mL
+   Blood products:
+   Total out:
+                                                                    350 mL
+                                                                    350 mL
+   Urine:
+                                                                    350 mL
+                                                                    350 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,580 mL
+                                                                   -350 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: 7.37/28/68/16/-7
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: enucleated L eye
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, PD catheter
+   Extremities: Right: 1+, Left: 1+
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): x3, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   6.9 g/dL
+   91 K/uL
+   96 mg/dL
+   7.6 mg/dL
+   16 mEq/L
+   4.7 mEq/L
+   48 mg/dL
+   110 mEq/L
+   139 mEq/L
+   21.8 %
+   4.1 K/uL
+        [image002.jpg]
+                             [**2141-6-11**]  01:07 PM
+                             [**2141-6-11**]  02:00 PM
+                             [**2141-6-11**]  09:29 PM
+                             [**2141-6-12**]  06:00 AM
+                             [**2141-6-12**]  02:50 PM
+                             [**2141-6-12**]  04:11 PM
+                             [**2141-6-12**]  08:50 PM
+                             [**2141-6-13**]  03:09 AM
+   WBC
+   4.5
+   3.3
+   4.0
+   4.1
+   Hct
+   24.2
+   23.0
+   21.9
+   22.0
+   21.8
+   Plt
+   105
+   84
+   91
+   91
+   Cr
+   7.4
+   7.1
+   7.3
+   7.0
+   7.6
+   TropT
+   0.05
+   TCO2
+   17
+   Glucose
+   102
+   99
+   104
+   99
+   96
+   Other labs: PT / PTT / INR:22.5/37.9/2.2, CK / CKMB /
+   Troponin-T:156/7/0.05, ALT / AST:80/136, Alk Phos / T Bili:115/0.4,
+   Differential-Neuts:73.9 %, Band:0.0 %, Lymph:19.1 %, Mono:5.9 %,
+   Eos:0.8 %, Lactic Acid:0.7 mmol/L, LDH:279 IU/L, Ca++:7.3 mg/dL,
+   Mg++:2.7 mg/dL, PO4:5.6 mg/dL
+   Assessment and Plan
+   Hypertensive urgency
+   SLE
+   ESRD
+   Anemia
+   PRES
+   OSA
+   Transitioning to po antihypertensives. Will initiate PD today with plan
+   to remove fluid slowly. Hct is stable at 20 but continues to have low
+   grade hemolysis.  Have started Kepra per Neuro for sz prophylaxis. Will
+   try Auto-CPAP tonight
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**2141-6-11**] 01:38 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition :
+   Total time spent: 35 minutes
+   Patient is critically ill
+, Chief Complaint:
+   24 Hour Events:
+ DIALYSIS CATHETER - START [**2141-11-19**] 01:25 AM
+   IV labetalol pushes used overnight for SBPs>200, po labetalol 300mg x1
+   Peritoneal fluid sent for cell count and gram stain
+   Ascites
+   WBC 1265
+   RBC 1680
+   Poly 43
+   Lymph 1
+   Mono 2
+   EOs
+   Mesothe: 11
+   Macroph: 43
+   Allergies:
+   Penicillins
+   Rash;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   itching;
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,000 units/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2141-11-19**] 07:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 36.6
+C (97.8
+   HR: 88 (88 - 106) bpm
+   BP: 126/89(97) {117/67(80) - 217/142(160)} mmHg
+   RR: 9 (8 - 17) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 49.5 kg (admission): 49 kg
+             Total In:
+                                                                    303 mL
+                                                                    385 mL
+   PO:
+                                                                    150 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                    153 mL
+                                                                    145 mL
+   Blood products:
+   Total out:
+                                                                    150 mL
+                                                                      0 mL
+   Urine:
+                                                                    150 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    153 mL
+                                                                    385 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ////
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+        [image002.jpg]
+   Other labs: PT / PTT / INR:/150.0/, Lactic Acid:0.8 mmol/L
+   Assessment and Plan
+   24yoF ESRD-HD, SLE, HTN presents with 1 month abdominal pain and
+   hypertension.
+   # hypertension: hx of poorly controlled and labile htn, on extensive
+   regimen as managed by nephrology as outpt, ?non-compliance as
+   outpatient vs. volume issue vs chronic vasculitis issue.  Required IV
+   labetalol o/n, but has trended sbp to <170.
+   - current goal SBP 150-170
+   - PO anti-hypertensives, hydral 75mg po tid, labetalol 300 mg PO TID,
+   nifedipine 90mgSR qd, aliskiren 150 mg PO bid, clonidine 0.3 mg/24hr
+   qm.  PRN iv labetalol
+   .
+   # abd pain: work-up extensive as prior, CT without acute pathology.  No
+   leukocytosis, no fevers objectively or subjectively.  Does have element
+   of increased ascites as seen on ct scan; sbp? possible.  Unsure as to
+   why ascitic fluid present, query leftover peritoneal HD fluid from past
+   month vs. liver pathology (nl lfts).  Renal unsure if peritoneal fluid
+   from leftover.  Cell counts with elevated total wbc with +pmns, gram
+   stain negative, cx pending.
+   - labs not supportive of intra-abdominal abscess or process
+   - prn dilaudid/morphine
+   - renal to address PD catheter removal
+   - peritoneal fluid culture
+   - initiate bacterial peritonitis tx with vanco/zosyn
+   .
+   # ESRD: HD-dependant for years, has refused for time period ~[**2137**], had
+   PD catheter placed [**5-18**], now with R-femoral HD line with reported
+   non-functioning peritoneal HD catheter.  Received HD [**11-18**] with UF.
+   - cont ergocalciferol
+   - HD per renal
+   - lytes currently stable, trend
+   - renally dose meds
+   .
+   # SVC/brachicephalic thrombosis: f/[**2139**] and seen on imaging [**2141**], has
+   been on coumadin, now subtherapeutic, ?non-compliance.
+   - heparin gtt until therapeutic
+   - coumadin 3mg, trend coags
+   .
+   # hyperglycemia: on steroids at-home, keep >80% glucoses <150
+   - ISS
+   .
+   # pancytopenia: chronic issue, thought [**2-11**] SLE?
+   - trend cell lines, coags
+   .
+   # SLE: on prednisone at-home
+   - cont prednisone 4mg as per home dose
+   .
+   #fEN: reg diet, keep k>4, mg>2.
+   #access: PD cath, PIV, R femoral HD catheter
+   #PPx: hep sq, PPI (at-home), bowel regimen, ISS on steroids
+   #CODE: FULL
+   #COMMUNICATION: patient, mother [**Name (NI) 4948**] [**Name (NI) **] (works here).
+   #DISPO: call out
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2141-11-19**] 01:24 AM
+   Dialysis Catheter - [**2141-11-19**] 01:25 AM
+   Prophylaxis:
+   DVT: heparin gtt
+   Stress ulcer: ppi
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: full
+   Disposition: to floor
+, Chief Complaint:
+   24 Hour Events:
+   - SBP down to 100s overnight while on nitro and labetalol gtt
+ BP meds
+   have been on hold.
+   - overnight, c/o nausea x 1, with dry heaving, resolved with zofran.
+   - no concerns this AM.
+   - plan for HD today, as per renal.
+   Allergies:
+   Penicillins
+   Rash;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   itching;
+   Morphine
+   Itching;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2142-7-3**] 06:18 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2142-7-4**] 12:42 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.5
+C (97.7
+   Tcurrent: 35.5
+C (95.9
+   HR: 78 (75 - 94) bpm
+   BP: 97/60(70) {97/45(58) - 227/156(172)} mmHg
+   RR: 16 (12 - 19) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                    464 mL
+                  PO:
+                                                                    280 mL
+                  TF:
+   IVF:
+                                                                    184 mL
+   Blood products:
+   Total out:
+                                                                    200 mL
+                                                                      0 mL
+   Urine:
+                                                                    200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    264 mL
+                                                                      0 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 99%
+   ABG: ////
+   Physical Examination
+   General: A&Ox3. NAD, oriented x3.
+   HEENT: NC/AT; PERRLA on right, enucleated eye on left; OP clear,
+   nonerythematous, MMM.
+   Neck: supple, no LAD, full ROM.
+   Lungs: CTA B, with few crackles at bases.
+   CV: RR, nl S1, S2 +S3, no rubs appreciated.
+   Abdomen: soft, minimally distended, diffuse mild tenderness to
+   palpation, negative [**Doctor Last Name **], no rebound, gaurding.
+   Ext: WWP, 1+ dp/pt pluses, no clubbing, cyanosis or edema.
+   Neuro: CN 2-12 intact.  moving all four extremities spontaneously.
+   Labs / Radiology
+   70
+   6.9
+   82
+   7.8
+   22
+   4.4
+   44
+   107
+   140
+   2.2
+        [image002.jpg]
+                             [**2142-7-3**]  06:00 PM
+   TropT
+   0.17
+   Calcium 7.7, Mag 1.7, Phos 6.2
+   Other labs: CK / CKMB / Troponin-T:/5/0.17, Amylase / Lipase:/54
+   Assessment and Plan
+   24 yo F with h/o SLE, ESRD on HD, malignant HTN, h/o SVC syndrome,
+   PRES, prior ICH, and recent SBO, p/w n/v, and hypertensive urgency.
+   .
+   # hypertensive urgency - currently denies chest pain, but continues to
+   have mild headache, and resolving shortness of breath, likely [**2-12**]
+   hypertension.  states she did take her PO meds.  hypertensive urgency
+   was treated with nitro and labetalol gtt, with goal SBP 180-200, and
+   wean as able.
+   - nitro and labetalol gtt as well as remainder of BP currently being
+   held for SBP < 120
+   - attempt to continue CPAP.
+   - plan for HD in AM.
+   - continue home regimen of oral labetolol, nifedipine, hydralazine,
+   aliskerin as needed.
+   - cycle cardiac enzymes to ROMI.
+   .
+   # abdominal pain - recently treated for SBO, though at present without
+   n/v, soft abdomen, passing flatus, and having daily bowel movements.
+   does have hypoactive bowel sounds.
+   - continue current outpt pain regimen of po dilaudid, fentanyl patch,
+   lidoacine patch, follow BMs closely.
+   - lipase wnl.
+   - follow BM, flatus carefully, given recent SBO.
+   - will check AXR if more vomiting or abdominal pain.
+   - continue neurontin per HD.
+   .
+   # ESRD on HD - currently getting HD SaTuTh, though did not get HD
+   today.  no acute indication for HD; plan for HD today.
+   - HD per renal.
+   - continue sevelamer.
+   .
+   # anemia - chronic anemia, likely [**2-12**] CKD and SLE, currently above
+   baseline, though has h/o GIB.
+   - maintain t&s.
+   - guiac all stools.
+   - continue EPO at HD as per renal.
+   .
+   # h/o gastric ulcer - continue PPI [**Hospital1 **].
+   .
+   # SLE - continue home regimen of prednisone 4mg po qdaily.
+   .
+   # h/o SVC thrombosis - pt with goal INR [**2-13**], but this was stopped after
+   recent admission [**2-12**] supratherapeutic INR.  INR currently
+   sub-therapeutic.
+   - restart warfarin at 3 mg qdaily.
+   .
+   # seizure disorder - continue keppra 1000 mg PO 3X/WEEK (TU,TH,SA).
+   .
+   # depression - continue celexa.
+   .
+   # FEN:
+   - low salt diet.
+   .
+   # Prophylaxis: heparin sc tid, PPI.
+   # Access: PIVx2.
+   # Code: FULL
+   # Communication: Patient
+   # Disposition: ICU care for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2142-7-3**] 04:42 PM
+   22 Gauge - [**2142-7-3**] 04:42 PM
+   Prophylaxis:
+   DVT: heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU for now, possible transfer to floor later in day
+, Chief Complaint:
+   24 Hour Events:
+   - SBP down to 100s overnight while on nitro and labetalol gtt
+ BP meds
+   have been on hold.
+   - overnight, c/o nausea x 1, with dry heaving, resolved with zofran.
+   - no concerns this AM.
+   - plan for HD today, as per renal.
+   Allergies:
+   Penicillins
+   Rash;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   itching;
+   Morphine
+   Itching;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2142-7-3**] 06:18 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2142-7-4**] 12:42 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.5
+C (97.7
+   Tcurrent: 35.5
+C (95.9
+   HR: 78 (75 - 94) bpm
+   BP: 97/60(70) {97/45(58) - 227/156(172)} mmHg
+   RR: 16 (12 - 19) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                    464 mL
+                  PO:
+                                                                    280 mL
+                  TF:
+   IVF:
+                                                                    184 mL
+   Blood products:
+   Total out:
+                                                                    200 mL
+                                                                      0 mL
+   Urine:
+                                                                    200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    264 mL
+                                                                      0 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 99%
+   ABG: ////
+   Physical Examination
+   General: A&Ox3. NAD, oriented x3.
+   HEENT: NC/AT; PERRLA on right, enucleated eye on left; OP clear,
+   nonerythematous, MMM.
+   Neck: supple, no LAD, full ROM.
+   Lungs: CTA B, with few crackles at bases.
+   CV: RR, nl S1, S2 +S3, no rubs appreciated.
+   Abdomen: soft, minimally distended, diffuse mild tenderness to
+   palpation, negative [**Doctor Last Name **], no rebound, gaurding.
+   Ext: WWP, 1+ dp/pt pluses, no clubbing, cyanosis or edema.
+   Neuro: CN 2-12 intact.  moving all four extremities spontaneously.
+   Labs / Radiology
+   70
+   6.9
+   82
+   7.8
+   22
+   4.4
+   44
+   107
+   140
+   2.2
+        [image002.jpg]
+                             [**2142-7-3**]  06:00 PM
+   TropT
+   0.17
+   Calcium 7.7, Mag 1.7, Phos 6.2
+   Other labs: CK / CKMB / Troponin-T:/5/0.17, Amylase / Lipase:/54
+   Assessment and Plan
+   24 yo F with h/o SLE, ESRD on HD, malignant HTN, h/o SVC syndrome,
+   PRES, prior ICH, and recent SBO, p/w n/v, and hypertensive urgency vs.
+   emergency.
+   .
+   # hypertensive urgency vs. emergency - currently denies chest pain and
+   troponins x 2 trending down with 3^rd pending. Continues to have mild
+   headache, and resolving shortness of breath, likely [**2-12**] hypertension.
+   states she did take her PO meds.  hypertensive urgency was treated with
+   nitro and labetalol gtt, with goal SBP 180-200, and wean as able.
+   - nitro and labetalol gtt as well as remainder of BP currently being
+   held for SBP < 120
+   - attempt to continue CPAP.
+   - plan for HD in AM if pressures can tolerate.
+   - continue home regimen of oral labetolol, nifedipine, hydralazine,
+   aliskerin as needed.
+   - cycle cardiac enzymes to ROMI.
+   .
+   # abdominal pain - recently treated for SBO, though at present without
+   n/v, soft abdomen, passing flatus, and having daily bowel movements.
+   does have hypoactive bowel sounds.
+   - continue current outpt pain regimen of po dilaudid, fentanyl patch,
+   lidoacine patch, follow BMs closely.
+   - lipase wnl.
+   - follow BM, flatus carefully, given recent SBO.
+   - will check AXR if more vomiting or abdominal pain.
+   - continue neurontin per HD.
+   .
+   # ESRD on HD - currently getting HD SaTuTh.  no acute indication for
+   HD; plan for HD today.
+   - HD per renal.
+   - continue sevelamer.
+   .
+   # anemia - chronic anemia, likely [**2-12**] CKD and SLE, currently above
+   baseline, though has h/o GIB.
+   - T+C for 2 U pRBC
+   - guiac all stools.
+   - continue EPO at HD as per renal.
+   .
+   # h/o gastric ulcer - continue PPI [**Hospital1 **].
+   .
+   # SLE - continue home regimen of prednisone 4mg po qdaily.
+   .
+   # h/o SVC thrombosis - pt with goal INR [**2-13**], but this was stopped after
+   recent admission [**2-12**] supratherapeutic INR.  INR currently
+   sub-therapeutic.
+   - restart warfarin at 3 mg qdaily.
+   - bridge with heparin gtt.
+   .
+   # seizure disorder - continue keppra 1000 mg PO 3X/WEEK (TU,TH,SA).
+   .
+   # depression - continue celexa.
+   .
+   # FEN:
+   - low salt diet.
+   .
+   # Prophylaxis: heparin sc tid, PPI.
+   # Access: PIVx2.
+   # Code: FULL
+   # Communication: Patient
+   # Disposition: ICU care for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2142-7-3**] 04:42 PM
+   22 Gauge - [**2142-7-3**] 04:42 PM
+   Prophylaxis:
+   DVT: heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: possible transfer to floor later in day
+, Chief Complaint:
+   24 Hour Events:
+   Allergies:
+   Penicillins
+   Rash;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   itching;
+   Morphine
+   Itching;
+   Last dose of Antibiotics:
+   Vancomycin - [**2142-7-13**] 02:17 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2142-7-14**] 07:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 37.4
+C (99.4
+   HR: 102 (95 - 109) bpm
+   BP: 165/103(116) {117/55(73) - 174/108(119)} mmHg
+   RR: 22 (18 - 31) insp/min
+   SpO2: 93%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                    822 mL
+                                                                    679 mL
+   PO:
+             600 mL
+   TF:
+   IVF:
+                                                                    447 mL
+                                                                     79 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                  2,400 mL
+                                                                      0 mL
+   Urine:
+                                                                    400 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,578 mL
+                                                                    679 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 93%
+   ABG: ////
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   67 K/uL
+   7.3 g/dL
+   90 mg/dL
+   5.2 mg/dL
+   24 mEq/L
+   4.1 mEq/L
+   33 mg/dL
+   103 mEq/L
+   137 mEq/L
+   21.9 %
+   2.7 K/uL
+        [image002.jpg]
+                             [**2142-7-13**]  05:59 AM
+   WBC
+   2.7
+   Hct
+   21.9
+   Plt
+   67
+   Cr
+   5.2
+   Glucose
+   90
+   Other labs: PT / PTT / INR:16.7/43.0/1.5, Ca++:8.5 mg/dL, Mg++:1.8
+   mg/dL, PO4:4.2 mg/dL
+   Assessment and Plan
+   24F with h/o SLE, ESRD on HD, malignant HTN, h/o SVC syndrome, PRES,
+   prior ICH, and recent SBO, p/w dyspnea, and hypertensive urgency.
+   # Dyspnea
+   - question yesterday was HTN emergency with pulmonary edema vs.
+   infection
+   - pt was afebrile overnight
+   - will f/u CBC when labs done
+   - will f/u CXR when done
+   - pt is off of labetalol gtt with SBP
+s ranging 120
+   - cultures still pending
+   - pt still on vanc and levo
+ possibly d/c today
+   # Cough
+ chronic cough.  no fevers currently.  chest CT with bilateral
+   infiltrate and nodularities noted possibly infectious vs edema
+   - HD done yesterday
+ will f/u CXR to eval for improvement of fluid
+   # Ascites and Pleural and Pericardial Effusions
+   - unsure of etiology
+ SLE serositis vs. uermia vs. fluid overload
+   - will follow-up CXR to see if fluid improved with HD
+   - possible paracentesis or thoracentesis
+   # Chronic Abdominal Pain
+   - continue current outpt pain regimen of po dilaudid, fentanyl patch,
+   lidoacine patch
+   - will follow BM
+s and flatus, given pts h/o SBO recently
+   # Anemia/Pancytopenia - chronic anemia, baseline pancytopenia, likely
+   [**2-12**] CKD and SLE, currently above baseline, though has h/o GIB.
+   - pt has a chronic anemia and a baseline pancytopenia
+   - pt was to get 1 unit of blood with HD yesterday; also will get Epo
+   with dialysis
+   - will follow-up Hct when labs done
+   - continue to guaiac all stools, as pt did get blood during last admit
+   and is already back with decreased Hct
+   # ESRD on HD - HD SaTuTh, missed Tuesday HD session.
+   - Pt got HD yesterday
+   - F/u renal recs
+   - continue sevelamer.
+   # h/o gastric ulcer - continue PPI.
+   # SLE - continue home regimen of prednisone 4mg po qdaily.
+   - C3 low; C4 WNL
+ essentially unchanged from values in [**5-19**]
+   - [**Doctor First Name 1205**] pos
+ titer pending
+   # h/o SVC thrombosis - pt with goal INR [**2-13**], currently subtherapeutic
+   - restart warfarin at 3 mg qdaily.
+   # seizure disorder
+   - conitnue pt
+s home dose of Keppra
+   # depression
+   - continue celexa.
+   # FEN:
+   - low salt diet.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**2142-7-12**] 05:00 PM
+   20 Gauge - [**2142-7-12**] 05:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:Transfer to floor
+, Chief Complaint:
+   24 Hour Events:
+ DIALYSIS CATHETER - START [**2142-7-17**] 08:00 AM
+   Pt had HD
+   Allergies:
+   Penicillins
+   Rash;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   itching;
+   Morphine
+   Itching;
+   Last dose of Antibiotics:
+   Vancomycin - [**2142-7-17**] 10:30 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2142-7-17**] 03:00 PM
+   Coumadin (Warfarin) - [**2142-7-17**] 04:30 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2142-7-18**] 08:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36.6
+C (97.8
+   HR: 87 (78 - 109) bpm
+   BP: 135/88(99) {108/50(66) - 206/131(147)} mmHg
+   RR: 18 (14 - 39) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                    976 mL
+                                                                    200 mL
+   PO:
+                                                                    330 mL
+                                                                    200 mL
+   TF:
+   IVF:
+                                                                    646 mL
+   Blood products:
+   Total out:
+                                                                  3,250 mL
+                                                                    100 mL
+   Urine:
+                                                                    250 mL
+                                                                    100 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,274 mL
+                                                                    100 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///24/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   126 K/uL
+   7.3 g/dL
+   79 mg/dL
+   5.8 mg/dL
+   24 mEq/L
+   6.1 mEq/L
+   32 mg/dL
+   99 mEq/L
+   134 mEq/L
+   22.6 %
+   3.0 K/uL

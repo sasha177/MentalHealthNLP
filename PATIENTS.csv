@@ -1,0 +1,1006 @@
+       SUBJECT_ID  HADM_ID            ADMITTIME            DISCHTIME  \
+427           419   111426  2113-02-17 20:10:00  2113-02-26 13:00:00   
+1618         1452   156406  2129-05-10 16:38:00  2129-05-24 13:28:00   
+1701         1620   128318  2106-08-17 20:27:00  2106-08-25 18:00:00   
+1702         1620   122881  2106-09-17 16:04:00  2106-09-24 20:13:00   
+3185         3019   106974  2174-04-20 11:14:00  2174-06-13 16:30:00   
+3186         3019   124165  2174-07-05 13:39:00  2174-07-31 17:15:00   
+3725         2953   162049  2127-09-18 15:18:00  2127-11-14 15:00:00   
+3726         2953   177901  2129-08-01 17:08:00  2129-08-22 12:15:00   
+4153         3683   109908  2102-04-04 16:37:00  2102-08-12 15:40:00   
+4624         3767   103136  2115-08-09 10:47:00  2115-08-19 15:10:00   
+4748         3727   103307  2128-04-13 16:16:00  2128-06-03 12:00:00   
+5327         4934   189918  2143-01-18 15:20:00  2143-02-01 15:50:00   
+5813         5774   108018  2169-08-16 15:31:00  2169-10-11 17:00:00   
+6148         4245   117583  2126-02-15 09:25:00  2126-04-24 13:45:00   
+6456         7209   173259  2200-02-18 15:49:00  2200-03-03 07:30:00   
+7047         4132   134865  2172-04-06 07:39:00  2172-05-05 09:44:00   
+7080         5319   162749  2174-09-21 14:41:00  2174-11-08 14:20:00   
+7176         5578   128612  2111-06-26 16:11:00  2111-06-28 03:45:00   
+7481         4816   150862  2182-10-15 18:10:00  2182-10-23 13:55:00   
+7603         4145   130687  2122-07-21 08:00:00  2122-07-23 23:26:00   
+8288         5072   115563  2140-02-17 10:28:00  2140-04-04 17:45:00   
+8289         5072   121196  2140-09-15 21:29:00  2140-09-27 09:04:00   
+8765         7464   195910  2132-08-06 00:46:00  2132-08-20 14:00:00   
+9217        10408   135511  2146-09-15 15:10:00  2146-09-28 11:05:00   
+9510         8014   106602  2146-04-01 20:54:00  2146-05-11 15:55:00   
+11704       11881   168185  2136-12-20 18:21:00  2136-12-23 22:45:00   
+12687       10484   113233  2190-09-18 22:39:00  2190-09-24 20:40:00   
+12920       10102   164869  2105-05-29 18:18:00  2105-06-11 02:20:00   
+13037        9403   175096  2135-01-18 14:52:00  2135-04-05 16:10:00   
+13284        9052   152259  2120-09-27 16:15:00  2120-11-05 18:20:00   
+14608       14516   113633  2114-10-22 13:51:00  2114-11-16 14:00:00   
+14935       10624   150114  2142-11-28 15:33:00  2142-12-26 12:15:00   
+15372       13614   183995  2109-12-18 00:17:00  2110-01-17 17:45:00   
+16311       14757   177809  2136-01-03 18:50:00  2136-01-29 18:45:00   
+16732       11091   164694  2101-06-07 13:57:00  2101-09-18 07:20:00   
+16805       13019   171359  2112-06-15 19:01:00  2112-07-23 15:45:00   
+17238       12815   174370  2160-03-18 21:18:00  2160-04-02 15:02:00   
+17785       14432   166169  2168-05-27 12:00:00  2168-06-03 15:45:00   
+17786       14432   109007  2168-08-08 15:30:00  2168-11-19 12:00:00   
+18054       16879   123812  2118-09-09 10:21:00  2118-10-03 18:00:00   
+18286       12739   144123  2194-05-17 03:42:00  2194-05-27 12:00:00   
+18387       15747   184674  2142-11-07 18:47:00  2142-11-30 15:00:00   
+18732       16786   196708  2122-09-25 15:46:00  2122-10-19 12:00:00   
+19060       16687   110970  2148-06-13 18:14:00  2148-06-25 15:15:00   
+19062       16687   114879  2148-08-11 13:17:00  2148-08-22 05:00:00   
+19610       16693   138181  2196-02-22 16:35:00  2196-03-10 13:10:00   
+19721       15952   156903  2194-01-24 09:14:00  2194-04-03 14:15:00   
+19722       15952   180799  2195-01-13 16:24:00  2195-02-04 23:00:00   
+20406       17848   140462  2116-05-11 18:54:00  2116-06-03 16:45:00   
+20982       18589   181162  2191-04-18 15:44:00  2191-05-10 12:05:00   
+21515       17368   147016  2172-11-23 21:21:00  2173-01-06 14:00:00   
+22021       17766   135501  2124-03-13 18:46:00  2124-04-24 12:00:00   
+22111       18092   101352  2198-10-07 10:26:00  2198-12-06 15:30:00   
+22440       17047   194857  2132-11-21 20:42:00  2133-01-13 18:00:00   
+22441       17047   197419  2136-07-26 16:45:00  2136-09-20 14:30:00   
+23377       19334   155858  2101-12-10 16:34:00  2102-02-02 12:45:00   
+23378       19334   183582  2102-12-26 13:48:00  2103-01-26 10:00:00   
+23771       19492   142259  2193-01-09 15:50:00  2193-02-18 09:30:00   
+23907       21017   167354  2168-04-28 16:03:00  2168-05-22 14:35:00   
+24759       19164   132656  2124-10-17 00:03:00  2124-10-27 05:30:00   
+24806       18791   179019  2200-09-26 11:27:00  2200-11-05 12:00:00   
+25041       16949   110064  2168-02-23 17:03:00  2168-05-17 13:32:00   
+25065       19569   115191  2185-04-20 17:18:00  2185-04-23 16:41:00   
+25562       20043   121043  2182-07-10 16:04:00  2182-08-07 18:30:00   
+25815       22228   145541  2114-05-21 16:47:00  2114-06-06 16:35:00   
+26739       22844   148584  2170-01-06 20:14:00  2170-03-10 14:49:00   
+26740       22844   166054  2172-04-19 05:29:00  2172-05-03 16:00:00   
+27484       21283   174606  2176-04-03 14:52:00  2176-04-23 17:30:00   
+28009       22880   160780  2154-11-17 05:05:00  2155-01-02 14:26:00   
+28090       22581   126305  2200-06-11 14:39:00  2200-07-05 12:30:00   
+29372       24466   177879  2122-12-07 16:39:00  2122-12-10 20:55:00   
+29535       24302   144833  2189-06-30 20:53:00  2189-07-04 20:20:00   
+29614       23526   185941  2186-04-28 17:55:00  2186-06-09 12:21:00   
+29819       24621   117779  2132-10-28 01:57:00  2132-10-28 04:05:00   
+29904       25332   105052  2149-04-28 10:53:00  2149-05-05 10:50:00   
+30557       26224   149896  2114-09-07 13:53:00  2114-10-10 12:37:00   
+31182       21202   194067  2148-02-13 16:07:00  2148-04-09 16:24:00   
+31268       26258   189646  2160-05-02 15:53:00  2160-05-15 17:30:00   
+31473       27335   110499  2126-12-04 16:42:00  2127-01-12 15:55:00   
+32645       27527   155091  2131-08-27 18:01:00  2131-10-03 05:30:00   
+33239       27821   188470  2102-01-13 15:43:00  2102-01-14 12:00:00   
+33660       27506   122404  2198-07-05 17:48:00  2198-07-24 18:26:00   
+34431       26588   149063  2200-08-20 20:04:00  2200-09-19 10:00:00   
+34757       28801   144188  2173-01-30 19:47:00  2173-04-02 17:30:00   
+35029       30184   164766  2168-05-02 15:25:00  2168-05-03 12:00:00   
+35356       31270   150850  2118-08-07 18:01:00  2118-08-24 08:22:00   
+35413       27568   142064  2125-06-07 17:03:00  2125-07-08 17:55:00   
+37351       42589   178176  2152-04-15 15:05:00  2152-05-02 15:49:00   
+38189       42197   129746  2117-03-29 14:31:00  2117-04-25 20:24:00   
+39653       29765   173513  2166-12-31 18:11:00  2167-03-02 17:00:00   
+40199       50065   119836  2157-03-12 13:31:00  2157-04-08 23:08:00   
+40254       46676   101460  2142-03-23 17:25:00  2142-04-23 16:40:00   
+40680       47731   138291  2131-09-14 19:57:00  2131-10-06 17:43:00   
+40681       47731   152340  2132-10-06 18:19:00  2132-10-29 17:19:00   
+40738       50148   145980  2147-07-27 17:08:00  2147-08-25 14:00:00   
+40970       41494   113824  2200-06-14 02:28:00  2200-07-16 14:50:00   
+41579       51955   181913  2109-07-13 19:28:00  2109-08-31 16:40:00   
+42192       41719   104584  2127-10-09 04:22:00  2127-11-05 14:58:00   
+42391       46108   172654  2134-08-06 18:55:00  2134-09-14 16:30:00   
+42495       43126   124079  2124-03-01 11:10:00  2124-08-17 15:40:00   
+42882       45419   103293  2174-03-18 13:51:00  2174-04-14 16:00:00   
+43612       55313   177158  2169-04-07 20:25:00  2169-04-21 00:00:00   
+44059       45585   175850  2135-01-06 22:16:00  2135-03-01 16:50:00   
+44878       45236   118683  2109-06-06 17:19:00  2109-06-08 21:45:00   
+44996       58128   108958  2177-05-28 21:20:00  2177-06-25 13:30:00   
+45039       45317   103029  2118-04-18 12:05:00  2118-07-05 13:45:00   
+45759       65412   137761  2160-04-22 17:19:00  2160-05-15 05:46:00   
+45788       67281   193371  2130-02-22 17:46:00  2130-03-10 08:30:00   
+45872       58732   175692  2157-08-19 16:48:00  2157-10-24 16:30:00   
+45875       58732   159594  2158-06-05 18:26:00  2158-06-30 20:54:00   
+46046       53014   198689  2173-05-31 14:23:00  2173-06-09 15:05:00   
+46347       62187   174760  2164-06-17 02:42:00  2164-08-08 15:30:00   
+47004       54537   143560  2199-04-24 18:44:00  2199-05-31 15:20:00   
+47437       63253   119137  2131-12-31 15:11:00  2132-02-11 05:15:00   
+47674       61816   107605  2187-02-04 17:40:00  2187-03-08 18:20:00   
+47675       61816   183676  2187-09-10 19:18:00  2187-11-01 02:25:00   
+47753       64757   146107  2106-05-05 20:16:00  2106-05-08 22:45:00   
+48612       70156   174073  2138-07-23 16:03:00  2138-08-03 17:40:00   
+48790       68752   153534  2165-06-20 13:08:00  2165-07-18 14:00:00   
+49974       72363   104326  2145-05-20 09:53:00  2145-06-28 13:37:00   
+50132       72470   127573  2161-04-23 18:34:00  2161-06-01 15:30:00   
+50463       68579   194906  2195-08-03 12:40:00  2195-09-18 18:00:00   
+50464       68579   161848  2196-03-16 10:59:00  2196-04-20 14:00:00   
+50685       69167   192292  2146-05-03 17:33:00  2146-05-21 19:25:00   
+51410       76282   105104  2158-07-13 15:19:00  2158-08-31 19:45:00   
+51630       82405   189378  2123-05-10 19:41:00  2123-07-02 14:55:00   
+51692       77265   174503  2181-02-18 17:27:00  2181-02-28 18:30:00   
+52023       81236   171579  2136-02-14 16:42:00  2136-02-21 15:30:00   
+52111       78215   119620  2118-11-24 17:49:00  2118-12-06 13:55:00   
+52112       78215   159614  2119-10-05 18:45:00  2119-10-27 16:05:00   
+52430       80342   160825  2153-08-08 15:50:00  2153-10-12 18:00:00   
+52431       80342   186436  2153-10-31 13:01:00  2153-11-05 11:04:00   
+53327       79061   127004  2153-06-16 14:28:00  2153-07-28 15:45:00   
+53746       85023   190058  2136-04-12 12:00:00  2136-05-24 03:02:00   
+53793       83777   145568  2126-11-11 20:52:00  2126-11-29 00:00:00   
+54725       86766   170092  2133-09-04 19:34:00  2133-10-11 12:00:00   
+55357       88345   180498  2195-03-10 20:01:00  2195-04-23 15:25:00   
+55748       84822   153359  2191-09-29 22:17:00  2191-10-06 16:29:00   
+56533       94933   163962  2130-07-16 16:16:00  2130-08-01 12:30:00   
+56709       96763   167342  2131-08-15 13:58:00  2131-09-06 17:00:00   
+56716       96777   114995  2133-04-07 15:49:00  2133-05-12 18:00:00   
+56879       91327   100465  2111-04-16 13:32:00  2111-05-15 17:00:00   
+56880       91327   102715  2111-08-21 11:19:00  2111-09-08 08:35:00   
+56883       91333   112508  2176-02-27 17:39:00  2176-05-15 18:45:00   
+57116       98606   131328  2128-01-14 11:33:00  2128-04-30 18:30:00   
+57484       95929   160996  2190-03-02 18:00:00  2190-05-24 05:23:00   
+58457       95705   134885  2134-12-02 13:49:00  2135-01-08 14:42:00   
+58900       95387   110486  2186-07-20 00:09:00  2186-08-03 15:15:00   
+
+                 DEATHTIME  \
+427                    NaN   
+1618                   NaN   
+1701                   NaN   
+1702                   NaN   
+3185                   NaN   
+3186                   NaN   
+3725                   NaN   
+3726   2129-08-22 12:15:00   
+4153                   NaN   
+4624   2115-08-19 15:10:00   
+4748                   NaN   
+5327                   NaN   
+5813                   NaN   
+6148   2126-04-24 13:45:00   
+6456   2200-03-03 07:30:00   
+7047                   NaN   
+7080                   NaN   
+7176   2111-06-28 03:45:00   
+7481   2182-10-23 13:55:00   
+7603   2122-07-23 23:26:00   
+8288                   NaN   
+8289   2140-09-27 09:04:00   
+8765                   NaN   
+9217   2146-09-28 11:05:00   
+9510                   NaN   
+11704                  NaN   
+12687  2190-09-24 20:40:00   
+12920  2105-06-11 02:20:00   
+13037                  NaN   
+13284                  NaN   
+14608                  NaN   
+14935                  NaN   
+15372                  NaN   
+16311                  NaN   
+16732  2101-09-18 07:20:00   
+16805                  NaN   
+17238                  NaN   
+17785                  NaN   
+17786  2168-11-19 12:00:00   
+18054                  NaN   
+18286  2194-05-27 12:00:00   
+18387  2142-11-30 15:00:00   
+18732  2122-10-19 12:00:00   
+19060                  NaN   
+19062  2148-08-22 05:00:00   
+19610                  NaN   
+19721                  NaN   
+19722  2195-02-04 23:00:00   
+20406  2116-06-03 16:45:00   
+20982  2191-05-10 12:05:00   
+21515                  NaN   
+22021                  NaN   
+22111                  NaN   
+22440                  NaN   
+22441                  NaN   
+23377                  NaN   
+23378                  NaN   
+23771  2193-02-18 09:30:00   
+23907  2168-05-22 14:35:00   
+24759  2124-10-27 05:30:00   
+24806  2200-11-05 12:00:00   
+25041  2168-05-17 13:32:00   
+25065                  NaN   
+25562  2182-08-07 18:30:00   
+25815                  NaN   
+26739                  NaN   
+26740                  NaN   
+27484                  NaN   
+28009                  NaN   
+28090                  NaN   
+29372                  NaN   
+29535                  NaN   
+29614  2186-06-09 12:21:00   
+29819  2132-10-28 04:05:00   
+29904                  NaN   
+30557                  NaN   
+31182                  NaN   
+31268                  NaN   
+31473  2127-01-12 15:55:00   
+32645  2131-10-03 05:30:00   
+33239  2102-01-14 12:00:00   
+33660  2198-07-24 18:26:00   
+34431  2200-09-19 10:00:00   
+34757                  NaN   
+35029  2168-05-03 12:00:00   
+35356  2118-08-24 08:22:00   
+35413                  NaN   
+37351                  NaN   
+38189  2117-04-25 20:24:00   
+39653                  NaN   
+40199  2157-04-08 23:08:00   
+40254                  NaN   
+40680                  NaN   
+40681                  NaN   
+40738                  NaN   
+40970                  NaN   
+41579                  NaN   
+42192                  NaN   
+42391                  NaN   
+42495                  NaN   
+42882  2174-04-14 16:00:00   
+43612  2169-04-21 00:00:00   
+44059                  NaN   
+44878  2109-06-08 21:45:00   
+44996                  NaN   
+45039                  NaN   
+45759  2160-05-15 05:46:00   
+45788  2130-03-10 08:30:00   
+45872                  NaN   
+45875                  NaN   
+46046                  NaN   
+46347                  NaN   
+47004                  NaN   
+47437  2132-02-11 05:15:00   
+47674                  NaN   
+47675  2187-11-01 02:25:00   
+47753  2106-05-08 22:45:00   
+48612                  NaN   
+48790                  NaN   
+49974  2145-06-28 13:37:00   
+50132                  NaN   
+50463                  NaN   
+50464  2196-04-20 14:00:00   
+50685                  NaN   
+51410                  NaN   
+51630                  NaN   
+51692                  NaN   
+52023                  NaN   
+52111                  NaN   
+52112                  NaN   
+52430                  NaN   
+52431  2153-11-05 11:04:00   
+53327                  NaN   
+53746  2136-05-24 03:02:00   
+53793  2126-11-29 00:00:00   
+54725                  NaN   
+55357                  NaN   
+55748                  NaN   
+56533                  NaN   
+56709                  NaN   
+56716  2133-05-12 18:00:00   
+56879                  NaN   
+56880  2111-09-08 08:35:00   
+56883  2176-05-15 18:45:00   
+57116  2128-04-30 18:30:00   
+57484  2190-05-24 05:23:00   
+58457                  NaN   
+58900  2186-08-03 15:15:00   
+
+                                                                            DIAGNOSIS  \
+427                                    ACUTE LYMPHOCYTIC LEUKEMIA;FEBRILE NEUTROPENIA   
+1618                                     ACUTE LYMPHOCYTIC LEUKEMIA;FEVER;NEUTROPENIA   
+1701                                                       ACUTE MYELOGENOUS LEUKEMIA   
+1702                                             ACUTE MYELOGENOUS LEUKEMIA;BACK PAIN   
+3185                                                 ACUTE MYELOGENOUS LEUKEMIA\CHEMO   
+3186                                                        ACUTE MYLOGENOUS LEUKEMIA   
+3725                                                                   ACUTE LEUKEMIA   
+3726                               ACUTE MYELOGENOUS LEUKEMIA;CHANGE IN MENTAL STATUS   
+4153                                          ACUTE MYELOGENOUS LEUKEMIA;CHEMOTHERAPY   
+4624                                                                         LEUKEMIA   
+4748                                                              HAIRY CELL LEUKEMIA   
+5327                                                   ACUTE MYELOGENOUS LEUKEMIA;CTX   
+5813                                                      LEUKEMIA VS LYMPHOMA;ANEMIA   
+6148                                                                     LEUKEMIA\BMT   
+6456                                           ACUTE LYMPHOCYTIC LEUKEMIA;NEUTROPENIA   
+7047                                                                   ACUTE LEUKEMIA   
+7080                                                                         LEUKEMIA   
+7176                                                       LEUKEMIA;FEVER;NEUTROPENIA   
+7481                                         LOW O2 SATURATION;ACUTE MYELOID LEUKEMIA   
+7603                                                                   ACUTE LEUKEMIA   
+8288                                                  LEUKEMIA\BONE MARROW TRANSPLANT   
+8289                                                                  LEUKEMIA;SEPSIS   
+8765                                                       ACUTE LYMPHOCYTIC LEUKEMIA   
+9217                                                                         LEUKEMIA   
+9510                                                                   ACUTE LEUKEMIA   
+11704                                      PNEUMONIA;(AML) ACUTE MYELOGENOUS LEUKEMIA   
+12687                                                (AML) ACUTE MYELOGENOUS LEUKEMIA   
+12920                               CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION   
+13037                                                                        LEUKEMIA   
+13284                                                             HAIRY CELL LEUKEMIA   
+14608                                                (AML) ACUTE MYELOGENOUS LEUKEMIA   
+14935                                  CHRONIC LYMPHOCYTIC LEUKEMIA;FAILURE TO THRIVE   
+15372                                                                        LEUKEMIA   
+16311                                                       LEUKEMIA;SEPSIS;PNEUMONIA   
+16732                                                (AML) ACUTE MYELOGENOUS LEUKEMIA   
+16805                                                                        LEUKEMIA   
+17238                                            CHRONIC LYMPHOCYTIC LEUKEMIA;SEIZURE   
+17785                                         ACUTE MYELOGENOUS LEUKEMIA: NEUTROPENIA   
+17786                                                      ACUTE MYELOGENOUS LEUKEMIA   
+18054                             CHRONIC MYELOGENOUS LEUKEMIA\BONE MARROW TRANSPLANT   
+18286                                                             CHEST PAIN-LEUKEMIA   
+18387                                                      ACUTE MYELOGENOUS LEUKEMIA   
+18732                                                                        LEUKEMIA   
+19060                              MYELODYSPLATIC SYNDROME;ACUTE MYELOGENOUS LEUKEMIA   
+19062                                                                  ACUTE LEUKEMIA   
+19610                                                      ACUTE MYELOGENOUS LEUKEMIA   
+19721                                 ACUTE MONOCYTIC LEUKEMIA\BONE MARROW TRANSPLANT   
+19722                                                 ACUTE MYELOGENOUS LEUKEMIA;PAIN   
+20406                                         HEMOPTESIS;RESPIRATORY FAILURE;LEUKEMIA   
+20982                                          CHRONIC LYMPHOCYTIC LEUKEMIA;PNEUMONIA   
+21515                                                                        LEUKEMIA   
+22021                                            CHRONIC MYELOGENOUS LEUKEMIA;LOW WBC   
+22111                                                                        LEUKEMIA   
+22440                                                      ACUTE LYMPHOCYTIC LEUKEMIA   
+22441                                                (AML) ACUTE MYELOGENOUS LEUKEMIA   
+23377                                                                  ACUTE LEUKEMIA   
+23378                                                           ERYTHROLEUKEMIA\CHEMO   
+23771                                                      ACUTE MYELOGENOUS LEUKEMIA   
+23907                    ACUTE LYMPHOCYTIC LEUKEMIA;DECREASED PULMONARY FUNCTION TEST   
+24759                  CHRONIC LYMPHOCYTIC LEUKEMIA,ASCITES,? SMALL BOWEL OBSTRUCTION   
+24806                               ACUTE MYELOGENOUS LEUKEMIA\BONE MARROW TRANSPLANT   
+25041                                                      PLASMA CELL LEUKEMIA;FEVER   
+25065                            ACUTE RENAL FAILURE;(AML) ACUTE MYELOGENOUS LEUKEMIA   
+25562                                                      ACUTE LEUKEMIA;NEUTROPENIA   
+25815                ACUTE MYELOGENOUS LEUKEMIA;FEVER;NEUTROPENIA;R/O TOOTH INFECTION   
+26739                                              UPPER AIRWAY RESTRICTION, LEUKEMIA   
+26740                                                             CHEST PAIN-LEUKEMIA   
+27484                                                                        LEUKEMIA   
+28009                                                      ACUTE MYELOGENOUS LEUKEMIA   
+28090                                SEPSIS;UNRESPONSIVE;CHRONIC LYMPHOCYTIC LEUKEMIA   
+29372                                                    CHRONIC LYMPHOCYTIC LEUKEMIA   
+29535                                         ACUTE MYELOGENOUS LEUKEMIA,PHEUMOTHORAX   
+29614                                                                  ACUTE LEUKEMIA   
+29819                                                                        LEUKEMIA   
+29904                                               CRONIC MYELOGENOUS LEUKEMIA\FEVER   
+30557  CHRONIC MYELOGENOUS LEUKEMIA\INSERTION HICKMAN LINE; W/C-ARM DOUBLE AND 3L CVL   
+31182                                                (AML) ACUTE MYELOGENOUS LEUKEMIA   
+31268                                  ACUTE MYELOGENOUS LEUKEMIA;SHORTNESS OF BREATH   
+31473                                 ACUTE MYELOGENOUS LEUKEMIA;DEEP VEIN THROMBOSIS   
+32645                                                (AML) ACUTE MYELOGENOUS LEUKEMIA   
+33239                                                INTRACRANIAL HEMORRHAGE;LEUKEMIA   
+33660                                                    CHRONIC LYMPHOCYTIC LEUKEMIA   
+34431                                CHRONIC LYMPHOCYTIC LEUKEMIA;SHORTNESS OF BREATH   
+34757                                                                  ACUTE LEUKEMIA   
+35029                                 FEVER;PANCYTOPENIA;CHRONIC LYMPHOCYTIC LEUKEMIA   
+35356                                                (AML) ACUTE MYELOGENOUS LEUKEMIA   
+35413                                                ACUTE MYELOGENOUS LEUKEMIA;FEVER   
+37351                                                                        LEUKEMIA   
+38189                                                                        LEUKEMIA   
+39653                                               PROBABLE ACUTE LEUKEMIA;PNEUMONIA   
+40199                                                                        LEUKEMIA   
+40254                                                (AML) ACUTE MYELOGENOUS LEUKEMIA   
+40680                                                          NEW DIAGNOSIS LEUKEMIA   
+40681                                                                        LEUKEMIA   
+40738                                                                        LEUKEMIA   
+40970                                                (AML) ACUTE MYELOGENOUS LEUKEMIA   
+41579                                               ACUTE LEUKEMIA;INTRACRANIAL BLEED   
+42192                                                                        LEUKEMIA   
+42391                                                                  ACUTE LEUKEMIA   
+42495                             CHRONIC LYMPHOCYTIC LEUKEMIA\BONE MARROW TRANSPLANT   
+42882                                                                        LEUKEMIA   
+43612                                                                  ACUTE LEUKEMIA   
+44059                                                                  ACUTE LEUKEMIA   
+44878                                           ALTERED MENTAL STATUS; ACUTE LEUKEMIA   
+44996                                CHRONIC MYELOID LEUKEMIA;LEFT FOOT OSTEOMYELITIS   
+45039                                   ACUTE MYELOID LEUKEMIA\BONE MARROW TRANSPLANT   
+45759                            ACUTE MYELOGENOUS LEUKEMIA;MYELODYSPLASTIC SYNDROMES   
+45788                                                                        LEUKEMIA   
+45872                                                                        LEUKEMIA   
+45875                                                                        LEUKEMIA   
+46046                                                  FEVER;ACUTE LYMPHATIC LEUKEMIA   
+46347                                                    CELLULITIS;POSSIBLE LEUKEMIA   
+47004                                                                  ACUTE LEUKEMIA   
+47437                                                    ACUTE LYMPHOBLASTIC LEUKEMIA   
+47674                                                                        LEUKEMIA   
+47675                                                                  ACUTE LEUKEMIA   
+47753                                                                    NEW LEUKEMIA   
+48612                                                                        LEUKEMIA   
+48790                                                                    NEW LEUKEMIA   
+49974                                                                        LEUKEMIA   
+50132                                                                        LEUKEMIA   
+50463                         (AML) ACUTE MYELOGENOUS LEUKEMIA\BONE MARROW TRANSPLANT   
+50464                                    (AML) ACUTE MYELOGENOUS LEUKEMIA;HYPOTENSION   
+50685                                                                        LEUKEMIA   
+51410                                                                        LEUKEMIA   
+51630                                       PNEUMONIA;SEPTIC ARTHRITIS;ACUTE LEUKEMIA   
+51692                                                              LEUKEMIA/PNEUMONIA   
+52023                                 CHRONIC MYELOGENOUS LEUKEMIA;FEVER;HYPERKALEMIA   
+52111                                                (AML) ACUTE MYELOGENOUS LEUKEMIA   
+52112                                                             LEUKEMIA; PNEUMONIA   
+52430                                                (AML) ACUTE MYELOGENOUS LEUKEMIA   
+52431                                                (AML) ACUTE MYELOGENOUS LEUKEMIA   
+53327                                                (AML) ACUTE MYELOGENOUS LEUKEMIA   
+53746                                                                        LEUKEMIA   
+53793                                                                  ACUTE LEUKEMIA   
+54725                                                                        LEUKEMIA   
+55357                                                                  ACUTE LEUKEMIA   
+55748      CONGESTIVE HEART FAILURE;(AML) ACUTE MYELOGENOUS LEUKEMIA;LUNG INFILTRATED   
+56533                                                                        LEUKEMIA   
+56709                                                                        LEUKEMIA   
+56716                                                                        LEUKEMIA   
+56879                                                                        LEUKEMIA   
+56880                                   ACUTE MYELOID LEUKEMIA\BONE MARROW TRANSPLANT   
+56883                                                              RECURRENT LEUKEMIA   
+57116                                   ACUTE MYELOID LEUKEMIA\BONE MARROW TRANSPLANT   
+57484                                                                        LEUKEMIA   
+58457                                                                        LEUKEMIA   
+58900                                                                  ACUTE LEUKEMIA   
+
+                                                                                                                         RESULT  
+427                                                         ['ACUTE', 'LYMPHOCYTIC', 'LEUKEMIA', ';', 'FEBRILE', 'NEUTROPENIA']  
+1618                                                     ['ACUTE', 'LYMPHOCYTIC', 'LEUKEMIA', ';', 'FEVER', ';', 'NEUTROPENIA']  
+1701                                                                                       ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+1702                                                                  ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ';', 'BACK', 'PAIN']  
+3185                                                                                ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA\\CHEMO']  
+3186                                                                                        ['ACUTE', 'MYLOGENOUS', 'LEUKEMIA']  
+3725                                                                                                      ['ACUTE', 'LEUKEMIA']  
+3726                                              ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ';', 'CHANGE', 'IN', 'MENTAL', 'STATUS']  
+4153                                                                  ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ';', 'CHEMOTHERAPY']  
+4624                                                                                                               ['LEUKEMIA']  
+4748                                                                                              ['HAIRY', 'CELL', 'LEUKEMIA']  
+5327                                                                           ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ';', 'CTX']  
+5813                                                                              ['LEUKEMIA', 'VS', 'LYMPHOMA', ';', 'ANEMIA']  
+6148                                                                                                          ['LEUKEMIA\\BMT']  
+6456                                                                   ['ACUTE', 'LYMPHOCYTIC', 'LEUKEMIA', ';', 'NEUTROPENIA']  
+7047                                                                                                      ['ACUTE', 'LEUKEMIA']  
+7080                                                                                                               ['LEUKEMIA']  
+7176                                                                             ['LEUKEMIA', ';', 'FEVER', ';', 'NEUTROPENIA']  
+7481                                                           ['LOW', 'O2', 'SATURATION', ';', 'ACUTE', 'MYELOID', 'LEUKEMIA']  
+7603                                                                                                      ['ACUTE', 'LEUKEMIA']  
+8288                                                                                 ['LEUKEMIA\\BONE', 'MARROW', 'TRANSPLANT']  
+8289                                                                                                ['LEUKEMIA', ';', 'SEPSIS']  
+8765                                                                                       ['ACUTE', 'LYMPHOCYTIC', 'LEUKEMIA']  
+9217                                                                                                               ['LEUKEMIA']  
+9510                                                                                                      ['ACUTE', 'LEUKEMIA']  
+11704                                                   ['PNEUMONIA', ';', '(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+12687                                                                     ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+12920                                                    ['CHRONIC', 'MYELOGENOUS', 'LEUKEMIA', ';', 'TRANSFUSION', 'REACTION']  
+13037                                                                                                              ['LEUKEMIA']  
+13284                                                                                             ['HAIRY', 'CELL', 'LEUKEMIA']  
+14608                                                                     ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+14935                                                    ['CHRONIC', 'LYMPHOCYTIC', 'LEUKEMIA', ';', 'FAILURE', 'TO', 'THRIVE']  
+15372                                                                                                              ['LEUKEMIA']  
+16311                                                                             ['LEUKEMIA', ';', 'SEPSIS', ';', 'PNEUMONIA']  
+16732                                                                     ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+16805                                                                                                              ['LEUKEMIA']  
+17238                                                                    ['CHRONIC', 'LYMPHOCYTIC', 'LEUKEMIA', ';', 'SEIZURE']  
+17785                                                                  ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ':', 'NEUTROPENIA']  
+17786                                                                                      ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+18054                                                      ['CHRONIC', 'MYELOGENOUS', 'LEUKEMIA\\BONE', 'MARROW', 'TRANSPLANT']  
+18286                                                                                                ['CHEST', 'PAIN-LEUKEMIA']  
+18387                                                                                      ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+18732                                                                                                              ['LEUKEMIA']  
+19060                                                   ['MYELODYSPLATIC', 'SYNDROME', ';', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+19062                                                                                                     ['ACUTE', 'LEUKEMIA']  
+19610                                                                                      ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+19721                                                          ['ACUTE', 'MONOCYTIC', 'LEUKEMIA\\BONE', 'MARROW', 'TRANSPLANT']  
+19722                                                                         ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ';', 'PAIN']  
+20406                                                            ['HEMOPTESIS', ';', 'RESPIRATORY', 'FAILURE', ';', 'LEUKEMIA']  
+20982                                                                  ['CHRONIC', 'LYMPHOCYTIC', 'LEUKEMIA', ';', 'PNEUMONIA']  
+21515                                                                                                              ['LEUKEMIA']  
+22021                                                                 ['CHRONIC', 'MYELOGENOUS', 'LEUKEMIA', ';', 'LOW', 'WBC']  
+22111                                                                                                              ['LEUKEMIA']  
+22440                                                                                      ['ACUTE', 'LYMPHOCYTIC', 'LEUKEMIA']  
+22441                                                                     ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+23377                                                                                                     ['ACUTE', 'LEUKEMIA']  
+23378                                                                                                ['ERYTHROLEUKEMIA\\CHEMO']  
+23771                                                                                      ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+23907                                   ['ACUTE', 'LYMPHOCYTIC', 'LEUKEMIA', ';', 'DECREASED', 'PULMONARY', 'FUNCTION', 'TEST']  
+24759                         ['CHRONIC', 'LYMPHOCYTIC', 'LEUKEMIA', ',', 'ASCITES', ',', '?', 'SMALL', 'BOWEL', 'OBSTRUCTION']  
+24806                                                        ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA\\BONE', 'MARROW', 'TRANSPLANT']  
+25041                                                                              ['PLASMA', 'CELL', 'LEUKEMIA', ';', 'FEVER']  
+25065                                   ['ACUTE', 'RENAL', 'FAILURE', ';', '(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+25562                                                                                 ['ACUTE', 'LEUKEMIA', ';', 'NEUTROPENIA']  
+25815                  ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ';', 'FEVER', ';', 'NEUTROPENIA', ';', 'R/O', 'TOOTH', 'INFECTION']  
+26739                                                                       ['UPPER', 'AIRWAY', 'RESTRICTION', ',', 'LEUKEMIA']  
+26740                                                                                                ['CHEST', 'PAIN-LEUKEMIA']  
+27484                                                                                                              ['LEUKEMIA']  
+28009                                                                                      ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+28090                                                ['SEPSIS', ';', 'UNRESPONSIVE', ';', 'CHRONIC', 'LYMPHOCYTIC', 'LEUKEMIA']  
+29372                                                                                    ['CHRONIC', 'LYMPHOCYTIC', 'LEUKEMIA']  
+29535                                                                 ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ',', 'PHEUMOTHORAX']  
+29614                                                                                                     ['ACUTE', 'LEUKEMIA']  
+29819                                                                                                              ['LEUKEMIA']  
+29904                                                                              ['CRONIC', 'MYELOGENOUS', 'LEUKEMIA\\FEVER']  
+30557        ['CHRONIC', 'MYELOGENOUS', 'LEUKEMIA\\INSERTION', 'HICKMAN', 'LINE', ';', 'W/C-ARM', 'DOUBLE', 'AND', '3L', 'CVL']  
+31182                                                                     ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+31268                                                    ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ';', 'SHORTNESS', 'OF', 'BREATH']  
+31473                                                   ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ';', 'DEEP', 'VEIN', 'THROMBOSIS']  
+32645                                                                     ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+33239                                                                           ['INTRACRANIAL', 'HEMORRHAGE', ';', 'LEUKEMIA']  
+33660                                                                                    ['CHRONIC', 'LYMPHOCYTIC', 'LEUKEMIA']  
+34431                                                  ['CHRONIC', 'LYMPHOCYTIC', 'LEUKEMIA', ';', 'SHORTNESS', 'OF', 'BREATH']  
+34757                                                                                                     ['ACUTE', 'LEUKEMIA']  
+35029                                                 ['FEVER', ';', 'PANCYTOPENIA', ';', 'CHRONIC', 'LYMPHOCYTIC', 'LEUKEMIA']  
+35356                                                                     ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+35413                                                                        ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ';', 'FEVER']  
+37351                                                                                                              ['LEUKEMIA']  
+38189                                                                                                              ['LEUKEMIA']  
+39653                                                                       ['PROBABLE', 'ACUTE', 'LEUKEMIA', ';', 'PNEUMONIA']  
+40199                                                                                                              ['LEUKEMIA']  
+40254                                                                     ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+40680                                                                                          ['NEW', 'DIAGNOSIS', 'LEUKEMIA']  
+40681                                                                                                              ['LEUKEMIA']  
+40738                                                                                                              ['LEUKEMIA']  
+40970                                                                     ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+41579                                                                       ['ACUTE', 'LEUKEMIA', ';', 'INTRACRANIAL', 'BLEED']  
+42192                                                                                                              ['LEUKEMIA']  
+42391                                                                                                     ['ACUTE', 'LEUKEMIA']  
+42495                                                      ['CHRONIC', 'LYMPHOCYTIC', 'LEUKEMIA\\BONE', 'MARROW', 'TRANSPLANT']  
+42882                                                                                                              ['LEUKEMIA']  
+43612                                                                                                     ['ACUTE', 'LEUKEMIA']  
+44059                                                                                                     ['ACUTE', 'LEUKEMIA']  
+44878                                                                 ['ALTERED', 'MENTAL', 'STATUS', ';', 'ACUTE', 'LEUKEMIA']  
+44996                                                  ['CHRONIC', 'MYELOID', 'LEUKEMIA', ';', 'LEFT', 'FOOT', 'OSTEOMYELITIS']  
+45039                                                            ['ACUTE', 'MYELOID', 'LEUKEMIA\\BONE', 'MARROW', 'TRANSPLANT']  
+45759                                                 ['ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ';', 'MYELODYSPLASTIC', 'SYNDROMES']  
+45788                                                                                                              ['LEUKEMIA']  
+45872                                                                                                              ['LEUKEMIA']  
+45875                                                                                                              ['LEUKEMIA']  
+46046                                                                          ['FEVER', ';', 'ACUTE', 'LYMPHATIC', 'LEUKEMIA']  
+46347                                                                               ['CELLULITIS', ';', 'POSSIBLE', 'LEUKEMIA']  
+47004                                                                                                     ['ACUTE', 'LEUKEMIA']  
+47437                                                                                    ['ACUTE', 'LYMPHOBLASTIC', 'LEUKEMIA']  
+47674                                                                                                              ['LEUKEMIA']  
+47675                                                                                                     ['ACUTE', 'LEUKEMIA']  
+47753                                                                                                       ['NEW', 'LEUKEMIA']  
+48612                                                                                                              ['LEUKEMIA']  
+48790                                                                                                       ['NEW', 'LEUKEMIA']  
+49974                                                                                                              ['LEUKEMIA']  
+50132                                                                                                              ['LEUKEMIA']  
+50463                                       ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA\\BONE', 'MARROW', 'TRANSPLANT']  
+50464                                                 ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ';', 'HYPOTENSION']  
+50685                                                                                                              ['LEUKEMIA']  
+51410                                                                                                              ['LEUKEMIA']  
+51630                                                       ['PNEUMONIA', ';', 'SEPTIC', 'ARTHRITIS', ';', 'ACUTE', 'LEUKEMIA']  
+51692                                                                                                    ['LEUKEMIA/PNEUMONIA']  
+52023                                                 ['CHRONIC', 'MYELOGENOUS', 'LEUKEMIA', ';', 'FEVER', ';', 'HYPERKALEMIA']  
+52111                                                                     ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+52112                                                                                            ['LEUKEMIA', ';', 'PNEUMONIA']  
+52430                                                                     ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+52431                                                                     ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+53327                                                                     ['(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA']  
+53746                                                                                                              ['LEUKEMIA']  
+53793                                                                                                     ['ACUTE', 'LEUKEMIA']  
+54725                                                                                                              ['LEUKEMIA']  
+55357                                                                                                     ['ACUTE', 'LEUKEMIA']  
+55748  ['CONGESTIVE', 'HEART', 'FAILURE', ';', '(', 'AML', ')', 'ACUTE', 'MYELOGENOUS', 'LEUKEMIA', ';', 'LUNG', 'INFILTRATED']  
+56533                                                                                                              ['LEUKEMIA']  
+56709                                                                                                              ['LEUKEMIA']  
+56716                                                                                                              ['LEUKEMIA']  
+56879                                                                                                              ['LEUKEMIA']  
+56880                                                            ['ACUTE', 'MYELOID', 'LEUKEMIA\\BONE', 'MARROW', 'TRANSPLANT']  
+56883                                                                                                 ['RECURRENT', 'LEUKEMIA']  
+57116                                                            ['ACUTE', 'MYELOID', 'LEUKEMIA\\BONE', 'MARROW', 'TRANSPLANT']  
+57484                                                                                                              ['LEUKEMIA']  
+58457                                                                                                              ['LEUKEMIA']  
+58900                                                                                                     ['ACUTE', 'LEUKEMIA']  
+       SUBJECT_ID  HADM_ID            ADMITTIME            DISCHTIME  \
+63             61   189535  2119-01-04 18:12:00  2119-02-03 01:35:00   
+161           150   108732  2161-07-09 17:54:00  2161-07-14 14:00:00   
+940           843   141809  2150-06-30 20:13:00  2150-07-21 15:03:00   
+2133         1604   152321  2198-02-13 07:45:00  2198-02-20 17:20:00   
+3496         3132   127772  2131-01-10 16:55:00  2131-02-06 18:50:00   
+3497         3132   158940  2131-05-15 19:07:00  2131-07-05 17:00:00   
+4223         3361   120784  2186-06-29 13:01:00  2186-07-04 15:20:00   
+4346         3459   191904  2121-10-31 17:53:00  2121-12-04 16:15:00   
+5117         5448   167739  2118-06-03 11:41:00  2118-07-12 17:00:00   
+5211         6020   127735  2117-07-16 00:00:00  2117-08-09 18:25:00   
+5630         5242   198630  2125-02-07 18:31:00  2125-03-11 06:55:00   
+5813         5774   108018  2169-08-16 15:31:00  2169-10-11 17:00:00   
+6051         7536   159457  2164-11-21 17:17:00  2165-01-01 16:45:00   
+6403         8102   143169  2130-08-10 17:46:00  2130-08-18 16:00:00   
+6536         5799   161311  2190-04-27 17:42:00  2190-05-12 01:47:00   
+6856         5698   134480  2105-10-08 01:14:00  2105-10-27 12:00:00   
+7740         5598   183953  2175-07-28 19:58:00  2175-08-02 18:35:00   
+9062         9905   130273  2186-03-21 11:41:00  2186-04-09 10:32:00   
+9227        10417   165133  2145-06-17 22:00:00  2145-07-29 11:30:00   
+11552       12532   185940  2168-06-27 14:47:00  2168-07-09 15:12:00   
+12853        8880   158030  2189-02-18 16:23:00  2189-03-14 00:30:00   
+13683       11860   148412  2200-06-11 12:05:00  2200-08-29 14:00:00   
+13757        9443   169406  2153-07-10 10:44:00  2153-07-16 19:30:00   
+13808        8561   192697  2163-06-22 09:49:00  2163-07-13 16:45:00   
+15098       11138   147854  2153-11-29 19:27:00  2153-12-11 16:35:00   
+16267       14038   195274  2137-10-24 20:07:00  2137-11-02 14:30:00   
+16328       11623   140615  2150-07-07 16:13:00  2150-07-23 14:00:00   
+16331       11626   151820  2149-07-10 20:02:00  2149-07-29 22:12:00   
+16387       10695   161092  2196-05-10 10:38:00  2196-07-01 20:38:00   
+18985       15907   191122  2146-05-01 02:37:00  2146-05-06 05:11:00   
+19090       15761   181336  2131-07-04 21:02:00  2131-07-11 12:00:00   
+20321       17610   161643  2158-03-21 11:54:00  2158-06-01 10:30:00   
+20903       18250   132130  2201-07-29 09:53:00  2201-09-04 15:30:00   
+20904       18250   136119  2201-09-09 08:55:00  2201-10-05 16:20:00   
+22320       16058   172183  2148-07-10 19:12:00  2148-07-20 19:02:00   
+23895       19253   177866  2173-03-11 16:06:00  2173-04-08 17:00:00   
+24399       20244   149225  2130-06-07 13:18:00  2130-06-17 13:21:00   
+26107       21515   117562  2200-08-22 12:16:00  2200-09-07 21:40:00   
+27586       21619   196911  2157-10-11 13:38:00  2157-11-30 12:00:00   
+28045       21451   106412  2176-05-09 22:42:00  2176-05-19 11:50:00   
+29506       23739   114105  2130-05-31 12:20:00  2130-06-09 15:40:00   
+30211       25256   170994  2162-02-04 17:24:00  2162-03-16 11:30:00   
+30243       23786   168281  2188-11-11 13:46:00  2188-12-02 13:15:00   
+30454       24914   104336  2113-04-23 18:24:00  2113-04-26 11:10:00   
+30825       24374   122100  2115-08-29 19:16:00  2115-09-08 13:28:00   
+30946       25304   165523  2193-02-18 16:38:00  2193-03-19 00:17:00   
+31571       27121   167456  2126-11-23 12:54:00  2127-01-13 17:43:00   
+31573       27121   177081  2127-04-30 14:31:00  2127-05-30 14:00:00   
+32888       28936   107797  2168-05-30 16:41:00  2168-07-16 10:35:00   
+32936       27400   141242  2118-08-29 18:21:00  2118-09-16 15:05:00   
+34091       26017   113862  2157-09-22 18:08:00  2157-09-24 18:21:00   
+34501       28646   168829  2184-10-04 19:49:00  2184-10-11 14:35:00   
+35502       30595   154747  2115-05-17 17:16:00  2115-05-23 15:15:00   
+35503       30595   168323  2115-07-03 13:27:00  2115-07-16 16:35:00   
+36028       30084   173682  2197-07-07 10:58:00  2197-07-27 14:00:00   
+36791       29138   173662  2168-07-15 21:21:00  2168-08-02 15:00:00   
+36792       29138   150194  2168-12-05 16:22:00  2168-12-10 10:07:00   
+37465       32304   101923  2156-09-23 22:19:00  2156-10-06 13:30:00   
+38150       40310   157609  2144-12-24 16:16:00  2144-12-31 16:40:00   
+38176       40405   176274  2146-02-19 15:23:00  2146-03-03 12:05:00   
+38177       40405   167904  2146-04-01 07:15:00  2146-04-01 12:00:00   
+38311       32749   178539  2171-09-17 19:20:00  2171-09-20 16:08:00   
+38338       42251   179370  2182-06-12 19:38:00  2182-06-22 01:40:00   
+38780       29860   184510  2184-08-11 18:45:00  2184-09-20 15:24:00   
+39382       43990   109965  2155-09-08 19:46:00  2155-09-10 04:24:00   
+40322       49580   114163  2199-08-14 15:38:00  2199-08-19 20:05:00   
+40323       49580   125592  2199-08-27 14:19:00  2199-08-30 19:00:00   
+40697       49580   165638  2199-09-10 18:16:00  2199-09-17 19:30:00   
+41626       32525   135066  2130-04-20 23:26:00  2130-05-08 17:25:00   
+41764       46489   152416  2156-10-04 17:57:00  2156-10-23 04:00:00   
+41933       48398   173152  2161-06-30 16:42:00  2161-07-06 17:11:00   
+42496       43126   132026  2124-08-21 19:08:00  2124-09-26 18:35:00   
+42536       32714   149465  2167-06-26 12:32:00  2167-06-27 05:59:00   
+42637       50507   145537  2141-11-05 14:38:00  2141-11-13 19:10:00   
+43273       57271   115393  2144-04-14 19:40:00  2144-05-18 23:53:00   
+45156       59505   139500  2120-03-14 14:22:00  2120-03-16 14:00:00   
+45595       65326   160955  2175-03-31 15:30:00  2175-04-05 14:40:00   
+46702       66338   167232  2131-04-05 09:44:00  2131-04-13 16:55:00   
+47022       54604   126129  2148-04-18 11:37:00  2148-05-24 18:00:00   
+47188       56552   132888  2151-01-05 19:21:00  2151-01-20 01:15:00   
+48121       68631   104922  2192-08-09 18:27:00  2192-09-04 19:45:00   
+48456       72670   189049  2116-06-08 09:39:00  2116-09-11 05:44:00   
+49850       74907   126131  2113-01-22 14:50:00  2113-02-01 16:15:00   
+49995       68946   130019  2154-03-20 13:39:00  2154-04-08 15:59:00   
+50539       69596   174074  2133-07-06 17:12:00  2133-07-28 00:01:00   
+51038       79651   136221  2114-12-18 16:49:00  2115-01-04 18:40:00   
+51226       81579   109770  2103-08-07 15:40:00  2103-09-23 12:00:00   
+51282       76736   113085  2167-12-19 16:02:00  2168-03-26 13:30:00   
+51501       81195   197774  2150-05-12 16:36:00  2150-05-20 19:00:00   
+52674       80927   179544  2155-03-26 13:09:00  2155-06-10 14:10:00   
+53652       89992   135343  2195-02-04 17:24:00  2195-03-18 16:00:00   
+54851       90416   179924  2172-12-20 09:54:00  2172-12-23 17:00:00   
+55999       85932   184927  2111-06-24 18:14:00  2111-07-01 14:45:00   
+56750       98249   165139  2195-01-14 10:13:00  2195-01-17 17:27:00   
+56909       98342   159869  2133-12-10 17:16:00  2134-01-28 15:25:00   
+56911       98342   107047  2134-10-09 14:21:00  2134-11-19 14:10:00   
+57546       92704   190822  2180-06-12 11:17:00  2180-06-21 15:40:00   
+58098       99403   150097  2148-09-19 14:54:00  2148-10-04 17:00:00   
+58518       92393   171872  2149-01-16 11:35:00  2149-02-28 23:35:00   
+58781       99823   179720  2168-08-30 05:22:00  2168-09-08 18:05:00   
+
+                 DEATHTIME  \
+63     2119-02-03 01:35:00   
+161                    NaN   
+940                    NaN   
+2133                   NaN   
+3496                   NaN   
+3497   2131-07-05 17:00:00   
+4223   2186-07-04 15:20:00   
+4346                   NaN   
+5117                   NaN   
+5211   2117-08-09 18:25:00   
+5630   2125-03-11 06:55:00   
+5813                   NaN   
+6051                   NaN   
+6403                   NaN   
+6536   2190-05-12 01:47:00   
+6856   2105-10-27 12:00:00   
+7740                   NaN   
+9062   2186-04-09 10:32:00   
+9227                   NaN   
+11552  2168-07-09 15:12:00   
+12853  2189-03-14 00:30:00   
+13683                  NaN   
+13757                  NaN   
+13808                  NaN   
+15098                  NaN   
+16267                  NaN   
+16328  2150-07-23 14:00:00   
+16331  2149-07-29 22:12:00   
+16387  2196-07-01 20:38:00   
+18985  2146-05-06 05:11:00   
+19090  2131-07-11 12:00:00   
+20321                  NaN   
+20903                  NaN   
+20904                  NaN   
+22320  2148-07-20 19:02:00   
+23895                  NaN   
+24399                  NaN   
+26107  2200-09-07 21:40:00   
+27586  2157-11-30 12:00:00   
+28045                  NaN   
+29506                  NaN   
+30211                  NaN   
+30243                  NaN   
+30454                  NaN   
+30825                  NaN   
+30946  2193-03-19 00:17:00   
+31571                  NaN   
+31573  2127-05-30 14:00:00   
+32888  2168-07-16 10:35:00   
+32936                  NaN   
+34091  2157-09-24 18:21:00   
+34501                  NaN   
+35502                  NaN   
+35503                  NaN   
+36028                  NaN   
+36791                  NaN   
+36792  2168-12-10 10:07:00   
+37465                  NaN   
+38150  2144-12-31 16:40:00   
+38176                  NaN   
+38177                  NaN   
+38311                  NaN   
+38338  2182-06-22 01:40:00   
+38780                  NaN   
+39382  2155-09-10 04:24:00   
+40322                  NaN   
+40323                  NaN   
+40697                  NaN   
+41626                  NaN   
+41764  2156-10-23 04:00:00   
+41933                  NaN   
+42496  2124-09-26 18:35:00   
+42536  2167-06-27 05:59:00   
+42637                  NaN   
+43273  2144-05-18 23:53:00   
+45156                  NaN   
+45595                  NaN   
+46702                  NaN   
+47022  2148-05-24 18:00:00   
+47188  2151-01-20 01:15:00   
+48121                  NaN   
+48456  2116-09-11 05:44:00   
+49850                  NaN   
+49995                  NaN   
+50539  2133-07-28 00:01:00   
+51038                  NaN   
+51226  2103-09-23 12:00:00   
+51282  2168-03-26 13:30:00   
+51501                  NaN   
+52674                  NaN   
+53652                  NaN   
+54851                  NaN   
+55999                  NaN   
+56750                  NaN   
+56909                  NaN   
+56911                  NaN   
+57546                  NaN   
+58098                  NaN   
+58518  2149-02-28 23:35:00   
+58781                  NaN   
+
+                                                        DIAGNOSIS  \
+63                      NON-HODGKINS LYMPHOMA;FEBRILE;NEUTROPENIA   
+161                                                      LYMPHOMA   
+940                                  ACUTE RENAL FAILURE;LYMPHOMA   
+2133                                          SPLENICLYMPHOMA/SDA   
+3496                          RECURRENT HODGKINS LYMPHOMA;DYSPNEA   
+3497                                                     LYMPHOMA   
+4223                                                     LYMPHOMA   
+4346                                                     LYMPHOMA   
+5117                NOM HODGKIN'S LYMPHOMA\BONE MARROW TRANSPLANT   
+5211                                   FEVER-MANTLE CELL LYMPHOMA   
+5630                         ASPIRATION PNEUMONIA;SEPSIS;LYMPHOMA   
+5813                                  LEUKEMIA VS LYMPHOMA;ANEMIA   
+6051                                                     LYMPHOMA   
+6403                                                     LYMPHOMA   
+6536                                        LYMPHOMA;CHEMOTHERAPY   
+6856                    NON HODGKINS LYMPHOMA-SHORTNESS OF BREATH   
+7740                                 SHORTNESS OF BREATH;LYMPHOMA   
+9062                       B-CELL LYMPHOMA\BONE MARROW TRANSPLANT   
+9227                                                     LYMPHOMA   
+11552                                                    LYMPHOMA   
+12853                           LYMPHOMA;DEHYDRATION;PAIN CONTROL   
+13683                                       NON HODGKINS LYMPHOMA   
+13757                                                    LYMPHOMA   
+13808                                              LYMPHOMA\CHEMO   
+15098                                       LYMPHOMA;HIP FRACTURE   
+16267                                                    LYMPHOMA   
+16328                                              LYMPHOMA;FEVER   
+16331                                             T CELL LYMPHOMA   
+16387         NODULAR HISTIOCYTIC LYMPHOMA\BONE MARROW TRANSPLANT   
+18985                        HYPONATREMIA-NON-HODGKIN'S LYMPHOMAS   
+19090                                              LYMPHOMA;CHEMO   
+20321               NON-HODGKIN'S LYMPHOMA\BONE MARROW TRANSPLANT   
+20903                             CENTRAL NERVOUS SYSTEM LYMPHOMA   
+20904                             CENTRAL NERVOUS SYSTEM LYMPHOMA   
+22320                                         METASTATIC LYMPHOMA   
+23895                                 LYMPHOMA,FEVER, NEUTROPENIA   
+24399                                       NON HODGKINS LYMPHOMA   
+26107                                                    LYMPHOMA   
+27586               NON HODGKIN'S LYMPHOMA\BONE MARROW TRANSPLANT   
+28045                                LYMPHOMA;FEBRILE NEUTROPENIA   
+29506                                LYMPHOMA\CHEMOTHERAPY ( ICE)   
+30211                                                    LYMPHOMA   
+30243                                              LYMPHOMA\CHEMO   
+30454                                                    LYMPHOMA   
+30825                                             T-CELL LYMPHOMA   
+30946                              LYMPHOMA;MENTAL STATUS CHANGES   
+31571                                  NONHODGKINS LYMPHOMA/FEVER   
+31573                                                    LYMPHOMA   
+32888                                              LYMPHOMA;FEVER   
+32936                                   LYMPHOMA/ PLURAL EFFUSION   
+34091          R/O LYMPHOMA;CHRONIC OBSTRUCTIVE PULMONARY DISEASE   
+34501                                             T-CELL LYMPHOMA   
+35502                      LYMPHOMA/COUGH/R/O PULMONARY INFECTION   
+35503                                       NON HODGKINS LYMPHOMA   
+36028                             CENTRAL NERVOUS SYSTEM LYMPHOMA   
+36791  SUPERVENTRICULAR TACHYCARDIA;NON-HODGKINS LYMPHOMAWEAKNESS   
+36792                                            LYMPHOMA;HYPOXIA   
+37465                                LYMPHOMA;SHORTNESS OF BREATH   
+38150                                 AROMEGLEY;BURKITTS LYMPHOMA   
+38176                                                    LYMPHOMA   
+38177                                                LYMPHOMA/SDA   
+38311                                  MEDIASTINUM TUMOR;LYMPHOMA   
+38338                                           RULE OUT LYMPHOMA   
+38780                                                    LYMPHOMA   
+39382                                   LYMPHOMA\CHEMOTHERAPY/ICE   
+40322                                         B CELL LYMPHOMA;VRE   
+40323                                                    LYMPHOMA   
+40697                                                    LYMPHOMA   
+41626                                                    LYMPHOMA   
+41764                                                    LYMPHOMA   
+41933                                      NON HODGKIN'S LYMPHOMA   
+42496                                                    LYMPHOMA   
+42536                                       LYMPHOMA;HYPERTENSION   
+42637                                                    LYMPHOMA   
+43273                                                    LYMPHOMA   
+45156                                                    LYMPHOMA   
+45595                         NON HODGKIN'S LYMPHOMA\CHEMOTHERAPY   
+46702                             CENTRAL NERVOUS SYSTEM LYMPHOMA   
+47022                                                    LYMPHOMA   
+47188                                                    LYMPHOMA   
+48121                                                    LYMPHOMA   
+48456                                        NON-HODGKIN LYMPHOMA   
+49850                      ABDOMINAL PAIN;EVALUATION FOR LYMPHOMA   
+49995                 SPLENIC MARGINAL ZONE LYMPHOMA\CHEMOTHERAPY   
+50539                                                    LYMPHOMA   
+51038                                       LARGE B CELL LYMPHOMA   
+51226                                                    LYMPHOMA   
+51282                            LYMPHOMA/SPINAL CORD COMPRESSION   
+51501                                                    LYMPHOMA   
+52674                NON HODGKINS LYMPHOMA\BONE MARROW TRANSPLANT   
+53652                                                    LYMPHOMA   
+54851                                                    LYMPHOMA   
+55999                                           BURKITTS LYMPHOMA   
+56750                                       LYMPHOMA\CHEMOTHERAPY   
+56909                                                    LYMPHOMA   
+56911                                                    LYMPHOMA   
+57546                            FOLLOCULAR LYMPHOMA\CHEMOTHERAPY   
+58098                                    LUEKEMIA;LYMPHOMA;NSTEMI   
+58518                NON-HODGKINS LYMPHOMA\BONE MARROW TRANSPLANT   
+58781                                       LYMPHOMA;SPLENOMEGALY   
+
+                                                                             RESULT  
+63                 ['NON-HODGKINS', 'LYMPHOMA', ';', 'FEBRILE', ';', 'NEUTROPENIA']  
+161                                                                    ['LYMPHOMA']  
+940                                  ['ACUTE', 'RENAL', 'FAILURE', ';', 'LYMPHOMA']  
+2133                                                        ['SPLENICLYMPHOMA/SDA']  
+3496                          ['RECURRENT', 'HODGKINS', 'LYMPHOMA', ';', 'DYSPNEA']  
+3497                                                                   ['LYMPHOMA']  
+4223                                                                   ['LYMPHOMA']  
+4346                                                                   ['LYMPHOMA']  
+5117             ['NOM', 'HODGKIN', "'S", 'LYMPHOMA\\BONE', 'MARROW', 'TRANSPLANT']  
+5211                                           ['FEVER-MANTLE', 'CELL', 'LYMPHOMA']  
+5630                    ['ASPIRATION', 'PNEUMONIA', ';', 'SEPSIS', ';', 'LYMPHOMA']  
+5813                                  ['LEUKEMIA', 'VS', 'LYMPHOMA', ';', 'ANEMIA']  
+6051                                                                   ['LYMPHOMA']  
+6403                                                                   ['LYMPHOMA']  
+6536                                              ['LYMPHOMA', ';', 'CHEMOTHERAPY']  
+6856                      ['NON', 'HODGKINS', 'LYMPHOMA-SHORTNESS', 'OF', 'BREATH']  
+7740                                 ['SHORTNESS', 'OF', 'BREATH', ';', 'LYMPHOMA']  
+9062                           ['B-CELL', 'LYMPHOMA\\BONE', 'MARROW', 'TRANSPLANT']  
+9227                                                                   ['LYMPHOMA']  
+11552                                                                  ['LYMPHOMA']  
+12853                      ['LYMPHOMA', ';', 'DEHYDRATION', ';', 'PAIN', 'CONTROL']  
+13683                                               ['NON', 'HODGKINS', 'LYMPHOMA']  
+13757                                                                  ['LYMPHOMA']  
+13808                                                           ['LYMPHOMA\\CHEMO']  
+15098                                          ['LYMPHOMA', ';', 'HIP', 'FRACTURE']  
+16267                                                                  ['LYMPHOMA']  
+16328                                                    ['LYMPHOMA', ';', 'FEVER']  
+16331                                                     ['T', 'CELL', 'LYMPHOMA']  
+16387          ['NODULAR', 'HISTIOCYTIC', 'LYMPHOMA\\BONE', 'MARROW', 'TRANSPLANT']  
+18985                               ['HYPONATREMIA-NON-HODGKIN', "'S", 'LYMPHOMAS']  
+19090                                                    ['LYMPHOMA', ';', 'CHEMO']  
+20321               ['NON-HODGKIN', "'S", 'LYMPHOMA\\BONE', 'MARROW', 'TRANSPLANT']  
+20903                                  ['CENTRAL', 'NERVOUS', 'SYSTEM', 'LYMPHOMA']  
+20904                                  ['CENTRAL', 'NERVOUS', 'SYSTEM', 'LYMPHOMA']  
+22320                                                    ['METASTATIC', 'LYMPHOMA']  
+23895                                ['LYMPHOMA', ',', 'FEVER', ',', 'NEUTROPENIA']  
+24399                                               ['NON', 'HODGKINS', 'LYMPHOMA']  
+26107                                                                  ['LYMPHOMA']  
+27586            ['NON', 'HODGKIN', "'S", 'LYMPHOMA\\BONE', 'MARROW', 'TRANSPLANT']  
+28045                                   ['LYMPHOMA', ';', 'FEBRILE', 'NEUTROPENIA']  
+29506                                   ['LYMPHOMA\\CHEMOTHERAPY', '(', 'ICE', ')']  
+30211                                                                  ['LYMPHOMA']  
+30243                                                           ['LYMPHOMA\\CHEMO']  
+30454                                                                  ['LYMPHOMA']  
+30825                                                        ['T-CELL', 'LYMPHOMA']  
+30946                              ['LYMPHOMA', ';', 'MENTAL', 'STATUS', 'CHANGES']  
+31571                                             ['NONHODGKINS', 'LYMPHOMA/FEVER']  
+31573                                                                  ['LYMPHOMA']  
+32888                                                    ['LYMPHOMA', ';', 'FEVER']  
+32936                                           ['LYMPHOMA/', 'PLURAL', 'EFFUSION']  
+34091    ['R/O', 'LYMPHOMA', ';', 'CHRONIC', 'OBSTRUCTIVE', 'PULMONARY', 'DISEASE']  
+34501                                                        ['T-CELL', 'LYMPHOMA']  
+35502                              ['LYMPHOMA/COUGH/R/O', 'PULMONARY', 'INFECTION']  
+35503                                               ['NON', 'HODGKINS', 'LYMPHOMA']  
+36028                                  ['CENTRAL', 'NERVOUS', 'SYSTEM', 'LYMPHOMA']  
+36791  ['SUPERVENTRICULAR', 'TACHYCARDIA', ';', 'NON-HODGKINS', 'LYMPHOMAWEAKNESS']  
+36792                                                  ['LYMPHOMA', ';', 'HYPOXIA']  
+37465                                ['LYMPHOMA', ';', 'SHORTNESS', 'OF', 'BREATH']  
+38150                                    ['AROMEGLEY', ';', 'BURKITTS', 'LYMPHOMA']  
+38176                                                                  ['LYMPHOMA']  
+38177                                                              ['LYMPHOMA/SDA']  
+38311                                     ['MEDIASTINUM', 'TUMOR', ';', 'LYMPHOMA']  
+38338                                                   ['RULE', 'OUT', 'LYMPHOMA']  
+38780                                                                  ['LYMPHOMA']  
+39382                                                ['LYMPHOMA\\CHEMOTHERAPY/ICE']  
+40322                                         ['B', 'CELL', 'LYMPHOMA', ';', 'VRE']  
+40323                                                                  ['LYMPHOMA']  
+40697                                                                  ['LYMPHOMA']  
+41626                                                                  ['LYMPHOMA']  
+41764                                                                  ['LYMPHOMA']  
+41933                                          ['NON', 'HODGKIN', "'S", 'LYMPHOMA']  
+42496                                                                  ['LYMPHOMA']  
+42536                                             ['LYMPHOMA', ';', 'HYPERTENSION']  
+42637                                                                  ['LYMPHOMA']  
+43273                                                                  ['LYMPHOMA']  
+45156                                                                  ['LYMPHOMA']  
+45595                            ['NON', 'HODGKIN', "'S", 'LYMPHOMA\\CHEMOTHERAPY']  
+46702                                  ['CENTRAL', 'NERVOUS', 'SYSTEM', 'LYMPHOMA']  
+47022                                                                  ['LYMPHOMA']  
+47188                                                                  ['LYMPHOMA']  
+48121                                                                  ['LYMPHOMA']  
+48456                                                   ['NON-HODGKIN', 'LYMPHOMA']  
+49850                   ['ABDOMINAL', 'PAIN', ';', 'EVALUATION', 'FOR', 'LYMPHOMA']  
+49995                     ['SPLENIC', 'MARGINAL', 'ZONE', 'LYMPHOMA\\CHEMOTHERAPY']  
+50539                                                                  ['LYMPHOMA']  
+51038                                            ['LARGE', 'B', 'CELL', 'LYMPHOMA']  
+51226                                                                  ['LYMPHOMA']  
+51282                                    ['LYMPHOMA/SPINAL', 'CORD', 'COMPRESSION']  
+51501                                                                  ['LYMPHOMA']  
+52674                 ['NON', 'HODGKINS', 'LYMPHOMA\\BONE', 'MARROW', 'TRANSPLANT']  
+53652                                                                  ['LYMPHOMA']  
+54851                                                                  ['LYMPHOMA']  
+55999                                                      ['BURKITTS', 'LYMPHOMA']  
+56750                                                    ['LYMPHOMA\\CHEMOTHERAPY']  
+56909                                                                  ['LYMPHOMA']  
+56911                                                                  ['LYMPHOMA']  
+57546                                      ['FOLLOCULAR', 'LYMPHOMA\\CHEMOTHERAPY']  
+58098                                  ['LUEKEMIA', ';', 'LYMPHOMA', ';', 'NSTEMI']  
+58518                    ['NON-HODGKINS', 'LYMPHOMA\\BONE', 'MARROW', 'TRANSPLANT']  
+58781                                             ['LYMPHOMA', ';', 'SPLENOMEGALY']  
